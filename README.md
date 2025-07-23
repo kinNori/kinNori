@@ -1,5 +1,5 @@
 ## Hi there 👋
-<img width="720" height="480" alt="banniere" src="https://github.com/user-attachments/assets/8ba51fed-a286-4af3-b921-9bf689615edc" />
+<img width="480" height="320" alt="banniere" src="https://github.com/user-attachments/assets/8ba51fed-a286-4af3-b921-9bf689615edc" />
 - 🔭 I’m currently working on a Anime Isekai RogueLike 
 - 🌱 I’m currently learning python GUI (using pygame)
 <!-- - 👯 I’m looking to collaborate on ...

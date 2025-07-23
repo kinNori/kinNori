@@ -1,8 +1,5 @@
 ## Hi there 👋
-<img width="101" height="100" alt="ENK_ICON" src="https://github.com/user-attachments/assets/d09e5588-de16-4e9d-b860-bc6b2f656720" />
-
-
-
+<img width="1200" height="800" alt="banniere" src="https://github.com/user-attachments/assets/8ba51fed-a286-4af3-b921-9bf689615edc" />
 - 🔭 I’m currently working on a Anime Isekai RogueLike 
 - 🌱 I’m currently learning python GUI (using pygame)
 <!-- - 👯 I’m looking to collaborate on ...

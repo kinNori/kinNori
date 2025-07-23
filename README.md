@@ -1,5 +1,5 @@
 ## Hi there 👋
-<img width="76" height="75" alt="ENK_ICON" src="https://github.com/user-attachments/assets/d09e5588-de16-4e9d-b860-bc6b2f656720" />
+<img width="101" height="100" alt="ENK_ICON" src="https://github.com/user-attachments/assets/d09e5588-de16-4e9d-b860-bc6b2f656720" />
 
 
 
